@@ -29,6 +29,6 @@ I am a multilingual machine learning engineer and certified data scientist, with
 
 🔭 I also have six years of experience in a managerial position at a multinational company, where I worked with 30 departments in four different countries, reduced costs in our environmental projects by 60%, and initiated 15+ new programs; and a few years in sustainability consulting, working mostly in impact assessment and environmental data analysis.
 
-My extensive experience of working in an international environment and passion for learning foreign languages & cultures have also enhanced my intercultural sensitivity.
+✨ My extensive experience of working in an international environment and passion for learning foreign languages & cultures have also enhanced my intercultural sensitivity.
 
 ⚡ When not at work, I'll be traveling with my family, learning new languages, reading, writing rap songs, or playing basketball.
