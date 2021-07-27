@@ -19,12 +19,13 @@ I am a multilingual machine learning engineer and certified data scientist, with
 
 😄 Current interests: environmental intelligence, sustainability, renewable energy, climate change mitigation and adaptation research, and data science projects
 
-🌱 As a lifelong learner with a growth mindset, I seek opportunities to learn new skills every day. Realizing the rising importance of big data in getting insights, telling stories, and finding solutions for environmental sustainability problems of the world, I learned data science, machine learning, and artificial intelligence to explore how they can be leveraged for sustainability enhancements. Recently attained a Nanodegree in Machine Learning Engineering with Microsoft Azure, Microsoft certification as an Azure Data Scientist Associate, and a Data Science Professional Certificate from IBM.
+🌱 As a lifelong learner with a growth mindset, I seek opportunities to learn new skills every day. Realizing the rising importance of big data in getting insights, telling stories, and finding solutions for environmental sustainability problems of the world, I learned data science, machine learning, and artificial intelligence to explore how they can be leveraged for sustainability enhancements. Recently attained a Nanodegree in Machine Learning Engineering with Microsoft Azure from Udacity, Microsoft certification as an Azure Data Scientist Associate, and a Data Science Professional Certificate from IBM.
 
 💬 Skills:
-Data science/analytics/visualization: Python, scikit-learn, pyspark, Power BI, Tableau, D3.js
-Databases: PostgreSQL, MongoDB
-Others: git and GitHub, PowerShell, bash, AWS, MS Azure
+
+- Data science/analytics/visualization: Python, scikit-learn, pyspark, Power BI, Tableau, D3.js
+- Databases: PostgreSQL, MongoDB
+- Others: git and GitHub, PowerShell, bash, AWS, MS Azure
 
 🔭 I also have six years of experience in a managerial position at a multinational company, where I worked with 30 departments in four different countries, reduced costs in our environmental projects by 60%, and initiated 15+ new programs; and a few years in sustainability consulting, working mostly in impact assessment and environmental data analysis.
 
