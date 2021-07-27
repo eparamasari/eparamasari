@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am a multilingual environmental sustainability consultant and certified data scientist, with an interdisciplinary educational background in renewable energy, environmental engineering, and practical skills in machine learning.
 
-🔭 In the past three years, I've been in sustainability consulting, working mostly in impact assessment and environmental data analysis. I also have six years of experience in a managerial position at a multinational company, where I worked with 30 departments in four different countries, reduced costs in our environmental projects by 60%, and initiated 15+ new programs.
+🔭 I have six years of experience in a managerial position at a multinational company, where I worked with 30 departments in four different countries, reduced costs in our environmental projects by 60%, and initiated 15+ new programs. I also have three years of experience in sustainability consulting, working mostly in impact assessment and environmental data analysis.
 
 😄 Current interests: environmental intelligence, sustainability, renewable energy, climate change mitigation and adaptation research, and data science projects
 
