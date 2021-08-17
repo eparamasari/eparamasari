@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a multilingual machine learning engineer and certified data scientist, with an interdisciplinary educational background in renewable energy and environmental engineering.
 
-😄 Current interests: environmental intelligence, sustainability, renewable energy, climate change mitigation and adaptation research, and data science projects
+😄 Current interests: climate change mitigation and adaptation research, environmental intelligence, renewable energy, and sustainability related data science projects
 
 🌱 As a lifelong learner with a growth mindset, I seek opportunities to learn new skills every day. Realizing the rising importance of big data in getting insights, telling stories, and finding solutions for environmental sustainability problems of the world, I learned data science, machine learning, and artificial intelligence to explore how they can be leveraged for sustainability enhancements. Recently attained a Nanodegree in Machine Learning Engineering with Microsoft Azure from Udacity, Microsoft certification as an Azure Data Scientist Associate, and a Data Science Professional Certificate from IBM.
 
