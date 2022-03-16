@@ -32,3 +32,4 @@ I'm a multilingual machine learning engineer and certified data scientist, with 
 ✨ My extensive experience of working in an international environment and passion for learning foreign languages & cultures have also enhanced my intercultural sensitivity.
 
 ⚡ When not at work, I'll be traveling with my family, learning new languages, reading, writing rap songs, or playing basketball.
+  I also enjoy participating in DS/ML/AI competitions/hackathons with my fellow ladies at AI Wonder Girls.
