@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a multilingual machine learning engineer and certified data scientist, with an interdisciplinary educational background in renewable energy and environmental engineering.
+I'm a multilingual machine learning engineer and certified data scientist, with two years of experience in data science and an interdisciplinary educational background in renewable energy and environmental engineering.
 
 😄 Current interests: AI for social good, climate change mitigation and adaptation research, environmental intelligence, renewable energy, and sustainability related data science projects
 
