@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 I'm a multilingual machine learning engineer and certified data scientist, with three years of experience in data science and an interdisciplinary educational background in renewable energy and environmental engineering.
 
-😄 Current interests: AI for social good, climate change mitigation and adaptation research, environmental intelligence, renewable energy, and sustainability-related data science projects
+💡 Current interests: AI for social good, climate change mitigation and adaptation research, environmental intelligence, renewable energy, and sustainability-related data science projects
 
 🌱 As a lifelong learner with a growth mindset, I seek opportunities to learn new skills every day. Realizing the rising importance of big data in getting insights, telling stories, and finding solutions for the world's problems, I continue to learn various things related to data science, machine learning, and artificial intelligence to explore how they can be leveraged for social good and sustainability enhancements. 
 Currently holding a Professional Machine Learning Engineer Certificate from Google Cloud, Cloud Developer - Associate from AWS, Machine Learning Engineer Nanodegree from Udacity, Azure Data Scientist Associate from Microsoft, and a Data Science Professional Certificate from IBM, I also like learning about other topics, from design thinking to innovation management.
 
-💬 Skills:
+💻 Skills:
 
 - Data science/analytics/visualization: Python, pyspark, Power BI, Tableau, D3.js
 - Machine learning: scikit-learn, Tensorflow
