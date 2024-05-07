@@ -27,18 +27,20 @@ Currently holding several certifications:
 - AWS Cloud Developer - Associate
 - Microsoft Azure Data Scientist Associate
 - IBM Data Science Professional Certificate
+- Alibaba Cloud Certified Professional (ACP)
 - Udacity Machine Learning Engineer Nanodegree
 - PCAP - Certified Associate Python Programmer
 - LFCA: Linux Foundation Certified IT Associate
 - Kubernetes and Cloud Native Associate (KCNA)
 I also like learning about other topics, from design thinking to innovation management.
 
+
 💻 Skills:
 
 - Data science/analytics/visualization: Python, pyspark, Power BI, Tableau, D3.js
 - Machine learning: scikit-learn, Tensorflow
 - Databases: PostgreSQL, MongoDB
-- Cloud computing: Google Cloud Platform (GCP), AWS, Azure
+- Cloud computing: Google Cloud Platform (GCP), AWS, Azure, Alibaba Cloud
 - Others: git and GitHub, PowerShell, bash
 
 🔭 I also have six years of experience in a managerial position at a multinational company, where I worked with 30 departments in four different countries, reduced costs in our environmental projects by 60%, and initiated 15+ new programs; and a few years in sustainability consulting, working mostly in impact assessment and environmental data analysis.
