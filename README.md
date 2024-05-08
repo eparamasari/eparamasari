@@ -32,6 +32,7 @@ Currently holding several certifications:
 - PCAP - Certified Associate Python Programmer
 - LFCA: Linux Foundation Certified IT Associate
 - Kubernetes and Cloud Native Associate (KCNA)
+
 I also like learning about other topics, from design thinking to innovation management.
 
 
@@ -43,9 +44,9 @@ I also like learning about other topics, from design thinking to innovation mana
 - Cloud computing: Google Cloud Platform (GCP), AWS, Azure, Alibaba Cloud
 - Others: git and GitHub, PowerShell, bash
 
-🔭 I also have six years of experience in a managerial position at a multinational company, where I worked with 30 departments in four different countries, reduced costs in our environmental projects by 60%, and initiated 15+ new programs; and a few years in sustainability consulting, working mostly in impact assessment and environmental data analysis.
+🔭 Additionally, I have six years of experience in a managerial position at a multinational company, where I worked with 30 departments in four different countries, reduced costs in our environmental projects by 60%, and initiated 15+ new programs; and a few years in sustainability consulting, working mostly in impact assessment and environmental data analysis.
 
 ✨ My extensive experience of working in an international environment and passion for learning foreign languages & cultures have also enhanced my intercultural sensitivity.
 
-⚡ When not at work, I'll be traveling with my family, learning new languages, reading, writing rap songs, or playing basketball.
+⚡ When not at work, I'll be travelling with my family, learning new languages, reading, writing rap songs, or playing basketball.
   I also enjoy participating in DS/ML/AI competitions/hackathons with my fellow ladies at AI Wonder Girls.
