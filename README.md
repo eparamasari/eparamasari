@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A certified data scientist and machine learning engineer with three years of experience in data science and an interdisciplinary educational background in renewable energy and environmental engineering
+I'm a certified data scientist and machine learning engineer with three years of experience in data science and an interdisciplinary educational background in renewable energy and environmental engineering.
 
 💡 Current interests: AI for social good, climate change mitigation and adaptation research, environmental intelligence, renewable energy, and sustainability-related data science projects
 
@@ -31,6 +31,7 @@ Currently holding several certifications:
 - PCAP - Certified Associate Python Programmer
 - LFCA: Linux Foundation Certified IT Associate
 - Kubernetes and Cloud Native Associate (KCNA)
+
 
 💻 Skills:
 
