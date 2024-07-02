@@ -23,14 +23,15 @@ I'm a certified data scientist and machine learning engineer with three years of
 
 🌱 As a lifelong learner with a growth mindset, I seek opportunities to continuously learn new skills. Realizing the rising importance of big data in getting insights, telling stories, and finding solutions for the world's problems, I continue to learn various things related to data science, machine learning, and artificial intelligence to explore how they can be leveraged for social good and sustainability enhancements. I also enjoy learning about other topics, from design thinking to innovation management. 
 Currently holding several certifications:
-- Google Cloud Professional Machine Learning Engineer Certificate
-- Microsoft Azure Data Scientist, AI Engineer, and Power BI Data Analyst Associate
-- IBM Data Science Professional Certificate
-- AWS Cloud Developer - Associate
-- Alibaba Cloud Certified Professional (ACP)
+- CompTIA DataX
 - PCAP - Certified Associate Python Programmer
+- Google Cloud Professional Machine Learning Engineer Certificate
+- Microsoft Certified: Azure Data Scientist, Azure AI Engineer, Power BI Data Analyst, and Fabric Analytics Engineer Associate
+- IBM Data Science Professional Certificate
+- AWS Certified Developer and Solutions Architect - Associate
+- Alibaba Cloud Certified Professional (ACP)
 - LFCA: Linux Foundation Certified IT Associate
-- Kubernetes and Cloud Native Associate (KCNA)
+- KCNA: Kubernetes and Cloud Native Associate
 
 
 💻 Skills:
@@ -45,5 +46,5 @@ Currently holding several certifications:
 
 ✨ My extensive experience working in an international environment and passion for learning foreign languages & cultures have also enhanced my intercultural sensitivity.
 
-⚡ When not at work, I'll be travelling with my family, learning new languages, reading, writing rap songs, or playing basketball.
+⚡ When not at work, I'll be traveling with my family, learning new languages, reading, writing rap songs, or playing basketball.
   I also enjoy participating in data science hackathons with my fellow ladies at AI Wonder Girls.
