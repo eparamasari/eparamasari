@@ -26,7 +26,7 @@ Currently holding several certifications:
 - CompTIA DataX
 - PCAP - Certified Associate Python Programmer
 - Google Cloud Professional Machine Learning Engineer Certificate
-- Microsoft Certified: Azure Data Scientist, Azure AI Engineer, Power BI Data Analyst, and Fabric Analytics Engineer Associate
+- Microsoft Certified: Azure Data Scientist, Power BI Data Analyst, Azure Data Engineer, Azure AI Engineer, and Fabric Analytics Engineer Associate
 - IBM Data Science Professional Certificate
 - AWS Certified Developer and Solutions Architect - Associate
 - Alibaba Cloud Certified Professional (ACP)
