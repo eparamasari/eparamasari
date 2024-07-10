@@ -34,7 +34,7 @@ I'm currently holding several certifications:
 
 💻 Tech Stack:
 
-- Data science/analytics/visualization: Python, PySpark, Power BI, Tableau, D3.js
+- Data science/analytics/visualization: Python, R, PySpark, Power BI, Tableau
 - Machine learning: scikit-learn, Tensorflow, PyTorch
 - Generative AI: OpenAI, Huggingface
 - Databases: PostgreSQL, MongoDB
