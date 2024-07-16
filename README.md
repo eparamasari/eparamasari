@@ -50,4 +50,4 @@ I currently hold several certifications:
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ernitia-paramasari/) 
 
-![Azure Data Scientist Associate](https://drive.google.com/file/d/15pI74AUBTQ0IY7lpm73_mJo2FGlvZfeC/view?usp=sharing)
+![Azure Data Scientist Associate](images/microsoft-certified-azure-data-scientist-associate.png)
