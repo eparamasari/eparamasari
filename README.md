@@ -51,7 +51,7 @@ I currently hold several certifications:
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ernitia-paramasari/) 
 
 <p float="left">
-  <img src="images/Comptia-DataX.png height="100">
+  <img src="images/Comptia-DataX.png" height="100">
   <img src="images/microsoft-certified-azure-data-scientist-associate.png" height="100">
   <img src="images/professional-ml-engineer.png" height="100">
   <img src="images/AWS-certified-developer-associate.png" height="100">
