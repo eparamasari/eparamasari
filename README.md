@@ -45,7 +45,7 @@ I currently hold several certifications:
 
 ✨ I’m looking to collaborate on AI for good projects and hackathons.
 
-⚡ When not at work, I learn new languages and read.
+⚡ When not at work, I read and learn languages.
   I also enjoy participating in data science hackathons with my fellow ladies at AI Wonder Girls.
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ernitia-paramasari/) 
