@@ -57,4 +57,6 @@ I currently hold several certifications:
   <img src="images/AWS-certified-developer-associate.png" height="100">
   <img src="images/IBM-data-science-professional-certificate.png" height="100">  
   <img src="images/python-institute-PCAP.png" height="100">
+  <img src="images/linux-foundation-lfca.png" height="100">
+  <img src="images/kubernetes-cloud-native-associate-KCNA.png" height="100">
 </p>
