@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a certified data scientist and machine learning engineer with three years of experience in data science and an interdisciplinary educational background in renewable energy and environmental engineering.
+I'm a certified data scientist and machine learning engineer with over four years of experience in data science and an interdisciplinary educational background in renewable energy and environmental engineering.
 
 💡 Current interests: climate change mitigation and adaptation research, environmental intelligence, renewable energy, and sustainability-related AI and data science projects
 
