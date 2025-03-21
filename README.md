@@ -60,4 +60,5 @@ I currently hold several certifications:
   <img src="images/alibaba-acp-cloud-computing.png" height="100">
   <img src="images/linux-foundation-lfca.png" height="100">
   <img src="images/kubernetes-cloud-native-associate-KCNA.png" height="100">
+  <img src="images/certified-gitops-associate-CGOA.png" height="100">
 </p>
