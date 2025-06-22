@@ -51,7 +51,7 @@ I currently hold several certifications:
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ernitia-paramasari/) 
 
 <p float="left">
-  [<img src="images/Comptia-DataX.png" height="100">](https://www.credly.com/badges/e024938a-afd7-4dc7-a748-e8f08c17b5df/public_url)
+  <img src="images/Comptia-DataX.png" height="100">(https://www.credly.com/badges/e024938a-afd7-4dc7-a748-e8f08c17b5df/public_url)
   <img src="images/Comptia-DataX.png" height="100">
   <img src="images/python-institute-PCAP.png" height="100">
   <img src="images/microsoft-certified-azure-data-scientist-associate.png" height="100">
