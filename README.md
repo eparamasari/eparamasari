@@ -54,13 +54,31 @@ I currently hold several certifications:
   <a href="https://www.credly.com/badges/e024938a-afd7-4dc7-a748-e8f08c17b5df/public_url">
     <img src="images/Comptia-DataX.png" alt="Comptia DataX" height="100" />
   </a>
-  <img src="images/python-institute-PCAP.png" height="100">
-  <img src="images/microsoft-certified-azure-data-scientist-associate.png" height="100">
-  <img src="images/professional-ml-engineer.png" height="100">
-  <img src="images/AWS-certified-developer-associate.png" height="100">
-  <img src="images/IBM-data-science-professional-certificate.png" height="100">
-  <img src="images/alibaba-acp-cloud-computing.png" height="100">
-  <img src="images/linux-foundation-lfca.png" height="100">
-  <img src="images/kubernetes-cloud-native-associate-KCNA.png" height="100">
-  <img src="images/certified-gitops-associate-CGOA.png" height="100">
+  <a href="https://www.credly.com/badges/0287a1ab-ad73-4ae6-979e-347284433afc/public_url">
+    <img src="images/python-institute-PCAP.png" alt="PCAP" height="100">
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ernitiap/FEC23C11409EECFD?sharingId=ABB84377746FC811">
+    <img src="images/microsoft-certified-azure-data-scientist-associate.png" alt="Azure Data Scientist" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/507ec775-d0a2-4093-b744-6c9721d6336d/public_url">
+    <img src="images/professional-ml-engineer.png" alt="Google Professional ML Engineer" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/3becd4c7-1fa1-4455-a95b-1cba0fd76eaa/public_url">
+    <img src="images/AWS-certified-developer-associate.png" alt="AWS Certified Developer Associate" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/2ae30c28-393b-49c6-8aba-47b55c670b6f/public_url">
+    <img src="images/IBM-data-science-professional-certificate.png" alt="IBM DS Professional" height="100">
+  </a>
+  <a href="https://drive.google.com/file/d/1ERCR4BdhuKHbimHnedea-01DzKP99ZxX/view?usp=sharing">
+    <img src="images/alibaba-acp-cloud-computing.png" alt="Alibaba Cloud Computing Professional" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/d4f53a7d-d95f-4773-ab9a-b8a55d3c59be/">
+    <img src="images/linux-foundation-lfca.png" alt="LFCA" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/5b1b7211-f0e1-49fa-a368-9a56b5b5f1a3/public_url">
+    <img src="images/kubernetes-cloud-native-associate-KCNA.png" alt="KCNA" height="100">
+  </a>
+  <a href="https://www.credly.com/badges/b89f1623-7e27-4ae0-8d87-bfd020e8b58a/public_url">
+    <img src="images/certified-gitops-associate-CGOA.png" alt="CGOA" height="100">
+  </a>
 </p>
