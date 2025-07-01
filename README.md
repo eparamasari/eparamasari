@@ -66,6 +66,9 @@ I currently hold several certifications:
   <a href="https://www.credly.com/badges/3becd4c7-1fa1-4455-a95b-1cba0fd76eaa/public_url">
     <img src="images/AWS-certified-developer-associate.png" alt="AWS Certified Developer Associate" height="100">
   </a>
+  <a href="https://www.credly.com/badges/47ad79c4-8071-4057-a83a-3acff8a4415a/public_url">
+    <img src="images/AWS-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate" height="100">
+  </a>
   <a href="https://www.credly.com/badges/2ae30c28-393b-49c6-8aba-47b55c670b6f/public_url">
     <img src="images/IBM-data-science-professional-certificate.png" alt="IBM DS Professional" height="100">
   </a>
