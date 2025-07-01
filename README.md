@@ -60,7 +60,7 @@ I currently hold several certifications:
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/ernitiap/FEC23C11409EECFD?sharingId=ABB84377746FC811">
     <img src="images/microsoft-certified-azure-data-scientist-associate.png" alt="Azure Data Scientist" height="100">
   </a>
-  <a href="https://www.credly.com/badges/507ec775-d0a2-4093-b744-6c9721d6336d/public_url">
+  <a href="https://www.credly.com/badges/b85e2b97-12df-4d99-8b80-685801e04bea/public_url">
     <img src="images/professional-ml-engineer.png" alt="Google Professional ML Engineer" height="100">
   </a>
   <a href="https://www.credly.com/badges/3becd4c7-1fa1-4455-a95b-1cba0fd76eaa/public_url">
